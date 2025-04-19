@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+chainlit
+faiss-cpu
+sentence-transformers
+PyPDF2
+python-dotenv
+tiktoken
+duckduckgo-search
+
