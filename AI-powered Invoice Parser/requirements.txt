@@ -1,0 +1,6 @@
+gradio
+PyMuPDF
+pandas
+python-dotenv
+google-generativeai
+mysql-connector-python

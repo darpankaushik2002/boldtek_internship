@@ -1,0 +1,10 @@
+description,quantity,price,total,invoice_number,invoice_date,source_file,subtotal,tax,total_amount,payment_method
+Echo Dot,2,45.0,90.0,354-993,2024-04-15,Amazoninvoice.png,170.0,14.03,184.03,Visa
+Fire TV Stick,1,40.0,40.0,354-993,2024-04-15,Amazoninvoice.png,170.0,14.03,184.03,Visa
+Batteries,4,10.0,40.0,354-993,2024-04-15,Amazoninvoice.png,170.0,14.03,184.03,Visa
+Echo Dot,2,45.0,90.0,354-993,2024-04-15,Amazoninvoice.png,170.0,14.03,184.03,Visa
+Fire TV Stick,1,40.0,40.0,354-993,2024-04-15,Amazoninvoice.png,170.0,14.03,184.03,Visa
+Batteries,4,10.0,40.0,354-993,2024-04-15,Amazoninvoice.png,170.0,14.03,184.03,Visa
+Echo Dot,2,45.0,90.0,354-993,2024-04-15,Amazoninvoice.png,170.0,14.03,184.03,Visa
+Fire TV Stick,1,40.0,40.0,354-993,2024-04-15,Amazoninvoice.png,170.0,14.03,184.03,Visa
+Batteries,4,10.0,40.0,354-993,2024-04-15,Amazoninvoice.png,170.0,14.03,184.03,Visa
