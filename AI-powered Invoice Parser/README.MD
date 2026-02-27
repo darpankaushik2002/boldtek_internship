@@ -124,6 +124,7 @@ python parse.py
 Gradio will start locally and show a link like:
 
 http://127.0.0.1:7860
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to use
 Tab 1: Parse Invoices
@@ -147,7 +148,7 @@ Write a question in simple English
 Click Generate SQL & Execute
 
 The results are shown as a table
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Example queries to try
 
 “Show me all distinct invoice numbers”
@@ -161,6 +162,7 @@ Example queries to try
 “What is the average price of items?”
 
 “Show all records sorted by invoice_date”
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Notes / limitations
 
@@ -175,7 +177,7 @@ SQL validation / safe allowlist
 Read-only queries enforcement
 
 Better error handling and logging
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Future improvements 
 
 Add support for more invoice formats using multiple prompt strategies
@@ -187,5 +189,6 @@ Add caching so the same invoice isn’t re-parsed
 Add a “confidence score” / evaluation checks (totals match sum of items)
 
 Add user authentication and multi-user invoice separation
+
 
 Export results in Excel/JSON + analytics dashboard
